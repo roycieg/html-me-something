@@ -4,20 +4,20 @@ body {
 
 h1 {
     text-align:center;
-    color: white;
+    color: rgb(218, 28, 170);
     font-family: Veranda;
 }
 
 h3 {
-    color: white;
+    color: rgb(90, 7, 90);
     font-family: Arial;
 }
 
 h5 {
-    color: white;
+    color: rgb(158, 235, 15);
     font-family: teletype;
 }
 
 p {
-    color:white;
+    color:rgb(28, 205, 236);
 }
