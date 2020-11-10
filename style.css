@@ -1,0 +1,23 @@
+body {
+    background-image: url("images/skybg.jpg");
+}
+
+h1 {
+    text-align:center;
+    color: white;
+    font-family: Veranda;
+}
+
+h3 {
+    color: white;
+    font-family: Arial;
+}
+
+h5 {
+    color: white;
+    font-family: teletype;
+}
+
+p {
+    color:white;
+}
